@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "khemia"
 version = "0.1.0"
-description = ""
+description = "Python tools for typing and memory cache."
 authors = ["CMHopeSunshine <277073121@qq.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{ include = "khemia"}]
+packages = [{ include = "khemia" }]
 
 [tool.poetry.dependencies]
 python = "^3.8"
